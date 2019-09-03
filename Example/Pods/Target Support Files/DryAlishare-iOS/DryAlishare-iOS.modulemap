@@ -1,0 +1,6 @@
+framework module DryAlishare_iOS {
+  umbrella header "DryAlishare-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

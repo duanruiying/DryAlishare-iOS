@@ -1,0 +1,16 @@
+PODS:
+  - DryAlishare-iOS (0.0.1)
+
+DEPENDENCIES:
+  - DryAlishare-iOS (from `../`)
+
+EXTERNAL SOURCES:
+  DryAlishare-iOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DryAlishare-iOS: d2a6e48411755bbeddc4f42f7dc084927dbfce0e
+
+PODFILE CHECKSUM: 22b453380c48ecf1dbcd82167cf6078122215b53
+
+COCOAPODS: 1.8.0.beta.2
