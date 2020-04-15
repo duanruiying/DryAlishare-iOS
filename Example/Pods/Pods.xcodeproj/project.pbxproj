@@ -47,7 +47,7 @@
 		64961DD3EE9680B8A01E5DEE3C0C0C96 /* Pods-DryAlishare-iOS_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DryAlishare-iOS_Example-Info.plist"; sourceTree = "<group>"; };
 		6ADFCB7079C3C5FBE3C0E2194336504D /* Pods-DryAlishare-iOS_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DryAlishare-iOS_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		6E13DDBC0CEA34A4D1C0D624006F8E9D /* Pods-DryAlishare-iOS_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-DryAlishare-iOS_Example.modulemap"; sourceTree = "<group>"; };
-		8430C8F051B2294604702402D76E3D13 /* DryAlishare-iOS.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "DryAlishare-iOS.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8430C8F051B2294604702402D76E3D13 /* DryAlishare-iOS.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = "DryAlishare-iOS.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		84E45D2F3E79487594453EC921212FF9 /* DryAlishare-iOS.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "DryAlishare-iOS.modulemap"; sourceTree = "<group>"; };
 		867DFEA9ED84FD49D5F533FA4B2100E8 /* APOpenAPIObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = APOpenAPIObject.h; path = "DryAlishare-iOS/Classes/Code/Public/APOpenAPIObject.h"; sourceTree = "<group>"; };
 		92418A9083F7D20B185530E4BE805108 /* DryAlishareText.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DryAlishareText.h; path = "DryAlishare-iOS/Classes/Code/Public/DryAlishareText.h"; sourceTree = "<group>"; };
@@ -55,14 +55,14 @@
 		982BE5E8E82687F28B2882C81DCB2F31 /* Pods-DryAlishare-iOS_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DryAlishare-iOS_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		9B686D6147E76F59234DCA344093F8ED /* DryAlishareImage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DryAlishareImage.h; path = "DryAlishare-iOS/Classes/Code/Public/DryAlishareImage.h"; sourceTree = "<group>"; };
 		9C00098EFAFE71E6E88DF2013EA7BBFF /* APOpenAPI.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = APOpenAPI.h; path = "DryAlishare-iOS/Classes/Code/Public/APOpenAPI.h"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9E7820EF2DCBC7E64BFA9D9C9F81CAC5 /* DryAlishare_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = DryAlishare_iOS.framework; path = "DryAlishare-iOS.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		AE38050511CC20C712E3E476F1E22128 /* Pods_DryAlishare_iOS_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_DryAlishare_iOS_Example.framework; path = "Pods-DryAlishare-iOS_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9E7820EF2DCBC7E64BFA9D9C9F81CAC5 /* DryAlishare_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DryAlishare_iOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AE38050511CC20C712E3E476F1E22128 /* Pods_DryAlishare_iOS_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DryAlishare_iOS_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B43E5BDE1F1398A20AD23DBC6D0C719D /* DryAlishareWeb.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DryAlishareWeb.h; path = "DryAlishare-iOS/Classes/Code/Public/DryAlishareWeb.h"; sourceTree = "<group>"; };
 		B575D2F89D1685BD783CE472B8595148 /* Pods-DryAlishare-iOS_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DryAlishare-iOS_Example-dummy.m"; sourceTree = "<group>"; };
 		C208612CEEEFF5772BD25783662AE467 /* DryAlishare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DryAlishare.h; path = "DryAlishare-iOS/Classes/Code/Public/DryAlishare.h"; sourceTree = "<group>"; };
-		CF1B2833BBEA5E475E733A021B8EE3EE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		D2F967BB39FE25E11BCFC4DC9A0D9F1E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		CF1B2833BBEA5E475E733A021B8EE3EE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		D2F967BB39FE25E11BCFC4DC9A0D9F1E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		D4BC539E2E0B57801FF9813B4EF24498 /* DryAlishare-iOS-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "DryAlishare-iOS-Info.plist"; sourceTree = "<group>"; };
 		D745B2A7A5EBF93B266E5913F7251177 /* DryAlishare-iOS.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "DryAlishare-iOS.xcconfig"; sourceTree = "<group>"; };
 		E5441EB60CFCE067CE9CFA4874829975 /* DryAlishare-iOS-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DryAlishare-iOS-prefix.pch"; sourceTree = "<group>"; };
@@ -291,6 +291,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
 			productRefGroup = 5ACB06972B112994178316D3671B8C9A /* Products */;
@@ -373,6 +374,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
+				MARKETING_VERSION = 1.0.0;
 				MODULEMAP_FILE = "Target Support Files/DryAlishare-iOS/DryAlishare-iOS.modulemap";
 				PRODUCT_MODULE_NAME = DryAlishare_iOS;
 				PRODUCT_NAME = DryAlishare_iOS;
@@ -406,6 +408,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
+				MARKETING_VERSION = 1.0.0;
 				MODULEMAP_FILE = "Target Support Files/Pods-DryAlishare-iOS_Example/Pods-DryAlishare-iOS_Example.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -505,6 +508,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
+				MARKETING_VERSION = 1.0.0;
 				MODULEMAP_FILE = "Target Support Files/DryAlishare-iOS/DryAlishare-iOS.modulemap";
 				PRODUCT_MODULE_NAME = DryAlishare_iOS;
 				PRODUCT_NAME = DryAlishare_iOS;
@@ -572,8 +576,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -599,6 +602,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
+				MARKETING_VERSION = 1.0.0;
 				MODULEMAP_FILE = "Target Support Files/Pods-DryAlishare-iOS_Example/Pods-DryAlishare-iOS_Example.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";

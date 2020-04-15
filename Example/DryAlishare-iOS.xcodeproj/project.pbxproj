@@ -199,7 +199,8 @@
 				ORGANIZATIONNAME = Dry;
 				TargetAttributes = {
 					6003F589195388D20070C39A = {
-						DevelopmentTeam = 8PWWH32WMP;
+						DevelopmentTeam = XLE6PLCUL5;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -405,13 +406,16 @@
 			baseConfigurationReference = 611B3F8A0E3E4D0ED8FC96FB /* Pods-DryAlishare-iOS_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 8PWWH32WMP;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = XLE6PLCUL5;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DryAlishare-iOS/DryAlishare-iOS-Prefix.pch";
 				INFOPLIST_FILE = "DryAlishare-iOS/DryAlishare-iOS-Info.plist";
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 				WRAPPER_EXTENSION = app;
 			};
@@ -422,13 +426,16 @@
 			baseConfigurationReference = A4E018CF3EC9F8364CED35D3 /* Pods-DryAlishare-iOS_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 8PWWH32WMP;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = XLE6PLCUL5;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DryAlishare-iOS/DryAlishare-iOS-Prefix.pch";
 				INFOPLIST_FILE = "DryAlishare-iOS/DryAlishare-iOS-Info.plist";
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 				WRAPPER_EXTENSION = app;
 			};
